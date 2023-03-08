@@ -3,6 +3,6 @@ site:
   start_page: HuyenTestAsciiDoc6.3.2023::index.adoc
 content:
   sources:
-      - url: https://github.com/HuyenNguyen238/repodemo6.3.2023
+      - url: https://github.com/HuyenNguyen238/repodemo6.3.2023/tree/master/modules/ROOT/pages
     start_paths: index.adoc
     output: html
