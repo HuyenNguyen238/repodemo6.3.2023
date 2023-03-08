@@ -1,6 +1,6 @@
 site:
   title: Hello World!
-    - url: https://github.com/HuyenNguyen238/repodemo6.3.2023/blob/master/modules/ROOT/pages/index.adoc
+  start_page: modules::index.adoc
 ui:
   bundle:
     url: ""
