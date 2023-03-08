@@ -1,6 +1,6 @@
 site:
   title: Hello World!
-  start_page: HuyenTestAsciiDoc6.3.2023::index.adoc
+    - url: https://github.com/HuyenNguyen238/repodemo6.3.2023/blob/master/modules/ROOT/pages/index.adoc
 ui:
   bundle:
     url: ""
