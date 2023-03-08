@@ -10,4 +10,4 @@ content:
       start_paths: index.adoc
   output:
     html:
-      pretty_urls: true
+      url_style: pretty
