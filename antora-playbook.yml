@@ -1,11 +1,12 @@
 site:
   title: Hello World!
-  start_page: modules::index.adoc
+  url: http://example.com
+  start_page: my-antora-site::index.adoc
 ui:
   bundle:
     url: ""
 content:
   sources:
-    - url: https://github.com/HuyenNguyen238/repodemo6.3.2023/tree/master/modules
+    - url: https://github.com/HuyenNguyen238/repodemo6.3.2023.git
       branches: master
-      start_paths: ROOT
+      start_paths: my-antora-site
